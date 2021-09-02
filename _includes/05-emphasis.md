@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Kardinaalihyveet*
+
+_Pyytettömyys_
+
+**Oikeudenmukaisuus**
+
+__Vilpittömyys__
+
+_Sinä **luot** itsesi uudelleen_
